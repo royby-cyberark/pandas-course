@@ -10,3 +10,11 @@
 * activate venv
 * `jupyter notebook`
 * 
+
+
+## Keyboard shortcut
+* h - open help
+* autocomplete
+  * tab
+  * bring up function docs: shift+tab, another tab to expand, another to open and pin to bottom
+* 
